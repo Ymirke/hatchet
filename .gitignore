@@ -1,5 +1,4 @@
 .DS_Store
-.env
 *.env
 .envrc
 *.pem
@@ -93,3 +92,4 @@ rabbitmq.conf
 certs/
 
 openapitools.json
+config.bat
