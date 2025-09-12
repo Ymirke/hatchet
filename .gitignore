@@ -1,5 +1,4 @@
 .DS_Store
-.env
 *.env
 .envrc
 *.pem
@@ -99,3 +98,4 @@ openapitools.json
 # Generated docs content
 frontend/app/src/next/lib/docs/generated/
 frontend/docs/lib/generated/
+config.bat
